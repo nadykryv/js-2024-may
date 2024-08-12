@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-2024-may.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1_var_operations/index_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1_var_operations/index_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1_var_operations/index_3.html" afterDir="false" />
+    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/lesson1_var_operations/index_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson1_var_operations/index_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,24 @@
       <workItem from="1722933562991" duration="2776000" />
       <workItem from="1722965206971" duration="9110000" />
       <workItem from="1722978399687" duration="2220000" />
+      <workItem from="1723016024831" duration="2070000" />
+      <workItem from="1723020878677" duration="87000" />
+      <workItem from="1723021240725" duration="348000" />
+      <workItem from="1723045030872" duration="104000" />
+      <workItem from="1723134592575" duration="1285000" />
+      <workItem from="1723324058138" duration="10315000" />
+      <workItem from="1723410501606" duration="1505000" />
+      <workItem from="1723494420415" duration="9981000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1723017045610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723017045610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
