@@ -103,15 +103,145 @@ let x = 7;
 if (x) {
     console.log(true);
 } else {
-    console.log(false);
+    console.log();
 }
 
 //-----------6-----------//
 
 
+//-----------7----------//
+
+m = prompt('(0-59)')
+let time = +m;
+let quarter;
+if (time < 0 || time > 59) {
+    quarter = 0;
+} else if(time < 15) { // 0-14
+    quarter = 1;
+} else if(time < 30) { // 15-29
+    quarter = 2;
+} else if(time < 45) { // 30-44
+    quarter = 3;
+} else { // 45-59
+    quarter = 4;
+}
+console.log(quarter);
+
+ //------------8--------------//
+
+day = + prompt('(1-7)' ) || 1;
+console.log(day);
+switch (day) {
+    case 1:
+        console.log('Monday');
+        break;
+    case 2:
+        console.log('Tuesday');
+        break;
+    case 3:
+        console.log('Wednesday');
+        break;
+    case 4:
+       console.log('Thursday');
+        break;
+    case 5:
+        console.log('Friday');
+        break;
+    case 6:
+        console.log('Saturday');
+        break;
+    case 7:
+        console.log('Sunday');
+        break;
+    default:
+        console.log('');
+}
+if(day) {
+    console.log('');
+} else {
+    console.log('');
+}
+
+//------------9-------------//
+
+let num1= +prompt;
+console.log( typeof +num1);
+
+let num2 = +prompt;
+console.log(typeof +num2);
+
+if ( num1 !== num1){
+    console.log(num1 !== num1)
+
+} else if (num2 !== num2){
+    console.log(num2 !== num2)
+
+} else {
+    res = (num1 > num2) ? num1 : num2;
+    console.log(res);
+}
+
+//-----------10------------//
+let a = 1; // Prova con 1, 0, -3
+
+if (a !== 0) {
+    console.log('true');
+} else {
+    console.log('False');
+}
+//--------//
+x = 0;
+x = x || 1;
+console.log(x);
+
+x = false;
+x = x || true;
+console.log(x);
+x = '';
+x = x || 'default';
+console.log(x);
+
+//-----------11-----------//
+
+let coursesAndDurationArray =[
+    {title : "JavaScript Complex", mountDuration: 5},
+    {title : "Java Complex", mountDuration: 6},
+    {title : "Python Complex", mountDuration: 6},
+    {title : "QA Complex", mountDuration: 4},
+    {title : "FullStack", mountDuration: 7},
+    {title : "Frontend", mountDuration: 4},
+];
 
 
-//
+if (coursesAndDurationArray[0].mountDuration > 5 ){
+    console.log('super');
+}
+if (coursesAndDurationArray[1].mountDuration > 5 ){
+    console.log('super');
+}
+if (coursesAndDurationArray[2].mountDuration > 5 ){
+    console.log('super');
+}
+if (coursesAndDurationArray[3].mountDuration > 5 ){
+    console.log('super');
+}
+if (coursesAndDurationArray[4].mountDuration > 5 ){
+    console.log('super');
+}
+if (coursesAndDurationArray[5].mountDuration > 5 ){
+    console.log('super');
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,104 @@
+
+
+//---------------1-----------------//
+
+for (let  i = 1; i <= 10; i++ ) {document.write ('<div><h3>JavaScript</h3></div>');}
+for (let  i = 1; i <= 10; i++ ) {document.write (`<div><h3>JS ${i}</h3></div>`);}
+let i = 1
+while (i < 11){document.write ('<div><h3>JavaScript</h3></div>'); i++}
+while (i < 11){document.write ('<div><h3>JS ${i}</h3></div>'); i++}
+
+//----------------2-----------------//
+
+
+let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+document.write(`<ul>`);
+for (const item of listOfItems) {document.write (`<li>${item}</li>`);}
+document.write (`<ul>`);
+
+//---------------------3------------------//
+
+let products = [
+    {
+        title: 'milk',
+        price: 22,
+        image: 'https://www.mcqueensdairies.co.uk/wp-content/uploads/2019/02/Mcqueens_1litre_whole_organic-300x300-3.jpg'
+    },
+    {
+        title: 'juice',
+        price: 27,
+        image: 'https://images-na.ssl-images-amazon.com/images/I/61jL2GCuKLL._SX679_PIbundle-24,TopRight,0,0_AA679SH20_.jpg'
+    },
+    {
+        title: 'tomato',
+        price: 47,
+        image: 'https://dictionary.cambridge.org/ru/images/thumb/tomato_noun_001_17860.jpg?version=5.0.74'
+    },
+    {
+        title: 'tea',
+        price: 15,
+        image: 'https://yogiproducts.com/wp-content/uploads/2009/03/YT-US-CAR-RelaxedMind-C23-202201-V2-3DFront_withGlow-300DPI-1.png'
+    },
+];
+for (const product of products) {
+    document.write (
+        `<div> 
+       <h2> ${product.title}. price: ${product.price}</h2>
+       <img src="${product.image}" alt="img" class="product-image">
+
+        </div>`);
+
+}
+
+//-------------&&&-----------------//
+
+ let listOfItems2 = ['Google', 'Bing', 'Baidu', 'Yahoo', 'Yandex'];
+ document.write(`<ul>`);
+ for (const item of listOfItems2) {document.write (`<li>${item}</li>`);}
+ document.write (`<ul>`);
+
+
+
+//------------&&&&------------------//
+
+
+
+  let prodotto = [
+    {
+        title: 'apple',
+        price: 70,
+        image: 'https://img.icons8.com/?size=100&id=P5EZaerMsATR&format=png&color=000000',
+    },
+    {
+        title: 'banana',
+        price: 60,
+        image: 'https://img.icons8.com/?size=100&id=a1RyRkDIEI9B&format=png&color=000000',
+    },
+    {
+        title: 'peach',
+        price: 85,
+        image: 'https://img.icons8.com/?size=100&id=dYvCg4sYEzUU&format=png&color=000000',
+    },
+    {
+        title: 'raspberry',
+        price: 75,
+        image: 'https://img.icons8.com/?size=100&id=19529&format=png&color=000000',
+    },
+    {
+        title: 'mango',
+        price: 95,
+        image: 'https://img.icons8.com/?size=100&id=y06NHH_kl00a&format=png&color=000000',
+    }
+
+];
+for (const product of prodotto) {
+    document.write (`<div> 
+       <h1> ${product.title}. price: ${product.price}</h1>
+       <img src="${product.image}" alt="" class="product-image">
+
+</div>`);
+
+}
+
+
+
