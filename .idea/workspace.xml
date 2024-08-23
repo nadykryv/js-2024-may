@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add hw">
-      <change afterPath="$PROJECT_DIR$/less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3DIV/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3DIV/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3DIV/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/index7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/index8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add hw" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +102,7 @@
       <workItem from="1724327665813" duration="8612000" />
       <workItem from="1724338252549" duration="154000" />
       <workItem from="1724361522574" duration="14419000" />
-      <workItem from="1724406318652" duration="4122000" />
+      <workItem from="1724406318652" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -139,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723506010520</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hw">
+      <option name="closed" value="true" />
+      <created>1724411892647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724411892647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
