@@ -54,30 +54,63 @@ const car = new Car('asd', 'qwe', 1234, 122, 4);
 console.log(car);
 
 car.drive();
-car.info();
 car.increaseMaxSpeed(100);
 car.changeYear(2000);
 car.addDriver({});
 console.log(car);
 
+
 //------------------------------------//
 
-function Person (name, age, shoeSize) {
-    this.name = name;
-    this.age = age;
-    this.shoeSize = shoeSize;
+class Cinderella {
+    constructor(name, age, footSize) {
+        this.name = name;
+        this.age = age;
+        this.footSize = footSize;
+    }
+}
+console.log()
+let cinderellas = [
+    new Cinderella('cenerentola1', 15, 34),
+    new Cinderella('cenerentola2', 16, 35),
+    new Cinderella('cenerentola3', 17, 36),
+    new Cinderella('cenerentola4', 17, 37),
+    new Cinderella('cenerentola5', 18, 38),
+    new Cinderella('cenerentola6', 19, 39),
+    new Cinderella('cenerentola7', 17, 37),
+    new Cinderella('cenerentola8', 20, 36),
+    new Cinderella('cenerentola9', 18, 34),
+    new Cinderella('cenerentola10', 16, 37),
+];
+console.log(cinderellas);
+
+
+class Prince {
+
+    constructor(name, age, slipper) {
+        this.name = name;
+        this.age = age;
+        this.slipper = slipper;
+    }
+
+}
+const prince = new Prince('Prince', 28, 37);
+console.log(prince);
+
+
+const newWife = (cinderella, prince) => {
+    for (const cinderella of cinderellas) {
+        if (item.footSize === prince.slipper) {
+            return ` ${item.name}`
+        }
+
+    }
+
+    console.log(cinderella, prince.slipper);
 }
 
-
-
-
-
-
-
-
-
-
-
+let futurePrincess = cinderellas.find((item) => item.footSize === prince.slipper);
+console.log(futurePrincess);
 
 
 

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add hw" />
+    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add ws">
+      <change afterPath="$PROJECT_DIR$/lesson10/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9divLi/index9divLi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9divLi/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less.html" beforeDir="false" afterPath="$PROJECT_DIR$/less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson7/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +59,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -102,7 +116,16 @@
       <workItem from="1724327665813" duration="8612000" />
       <workItem from="1724338252549" duration="154000" />
       <workItem from="1724361522574" duration="14419000" />
-      <workItem from="1724406318652" duration="4552000" />
+      <workItem from="1724406318652" duration="12483000" />
+      <workItem from="1724435273422" duration="1844000" />
+      <workItem from="1724445431566" duration="4335000" />
+      <workItem from="1724450812760" duration="1273000" />
+      <workItem from="1724670214754" duration="4585000" />
+      <workItem from="1724694338726" duration="8068000" />
+      <workItem from="1724749159616" duration="542000" />
+      <workItem from="1724775551993" duration="604000" />
+      <workItem from="1724782789154" duration="5802000" />
+      <workItem from="1724791480987" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -128,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724411892647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ws">
+      <option name="closed" value="true" />
+      <created>1724411943734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724411943734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="add hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw" />
+    <MESSAGE value="add ws" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ws" />
   </component>
 </project>
