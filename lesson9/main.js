@@ -243,6 +243,8 @@ coursesArray.forEach(item => {
     document.body.appendChild(itemDiv)
 })
 
+//-----------------------------//
+
 
 
 

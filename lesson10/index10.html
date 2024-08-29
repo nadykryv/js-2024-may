@@ -6,8 +6,44 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <style>
+
+
+        input{
+            display: block;
+            margin: 10px ;
+        }
+        button{
+            margin: 10px;
+        }
+        .popup{
+            display: none;
+            width: 300px;
+            height: 100px;
+            background-color: beige;
+            text-align: center;
+            position: fixed;
+            left: 300px;
+            top: 50px;
+        }
+    </style>
 </head>
 <body>
+
+
+<form name="form1">
+
+    <input type="text" name="username"  placeholder="Name">
+
+    <input type="text" name="surname" placeholder="Surname">
+
+    <input type="number" name="age" placeholder="Age">
+
+    <button>save</button>
+
+</form>
+
+<div class="popup">Ви вілправили форму</div>
 
 <script src="main.js">
 
