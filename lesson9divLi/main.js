@@ -1,4 +1,4 @@
-document.body.style.backgroundColor = prompt('background color?', 'silver');
+ document.body.style.backgroundColor = prompt('background color?', 'silver');
 
 //---------------------------------------//
 const div = document.createElement('div');
@@ -23,6 +23,7 @@ document.body.appendChild(div2);
 document.body.appendChild(div.cloneNode(true));
 
 //------------------------------------//
+ // Non e giusto secondo variante !!!!!
 
 const divBlock = document.createElement('div');
 ['wrap', 'collapse', 'alpha', 'beta'].forEach(val => divBlock.classList.add(val));
@@ -49,3 +50,6 @@ for (const item of arr) {
     menuDiv.appendChild(li);
 }
 console.log();
+
+//--------------------------------------//
+
