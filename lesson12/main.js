@@ -7,7 +7,8 @@ fetch('https://jsonplaceholder.typicode.com/users')
         let target = document.createElement('div');
         target.classList.add('target');
 
-        for(card of cards){
+
+        for(let card of cards){
             let divUser = document.createElement('div');
             divUser.classList.add('user');
             divUser.innerHTML = `<h4> id: ${card.id}</h4> 
@@ -15,8 +16,8 @@ fetch('https://jsonplaceholder.typicode.com/users')
 
             let button = document.createElement('button');
             button.innerText = 'details';
-            button.onclick = (id) =>{
-                localStorage.setItem('user', JSON.stringify(id));
+            button.onclick = () =>{
+                localStorage.setItem('user', card.id);
                 window.location.href = 'user-details.html'
 
             }
@@ -26,7 +27,4 @@ fetch('https://jsonplaceholder.typicode.com/users')
         }
 
     })
-
-
-
 
