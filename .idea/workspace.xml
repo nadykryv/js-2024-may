@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add  hw">
+    <list default="true" id="fcd34cf2-0947-4a81-ae49-7fb879d7e681" name="Changes" comment="add second hw">
+      <change afterPath="$PROJECT_DIR$/draftProject/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/main1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/post-details3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/post-details3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/user-details2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draftProject/user-details2.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/less2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/index11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/less.html" beforeDir="false" afterPath="$PROJECT_DIR$/less.html" afterDir="false" />
     </list>
@@ -133,6 +145,20 @@
       <workItem from="1725010909801" duration="5100000" />
       <workItem from="1725043504472" duration="6574000" />
       <workItem from="1725131437453" duration="14906000" />
+      <workItem from="1725185296109" duration="11571000" />
+      <workItem from="1725314080506" duration="1766000" />
+      <workItem from="1725357986973" duration="6403000" />
+      <workItem from="1725370693915" duration="17864000" />
+      <workItem from="1725468438259" duration="5719000" />
+      <workItem from="1725534494904" duration="10985000" />
+      <workItem from="1725550553192" duration="123000" />
+      <workItem from="1725557365683" duration="9713000" />
+      <workItem from="1725617073196" duration="14040000" />
+      <workItem from="1725650642445" duration="3401000" />
+      <workItem from="1725702245868" duration="2998000" />
+      <workItem from="1725709128780" duration="847000" />
+      <workItem from="1725714235631" duration="27000" />
+      <workItem from="1725793574268" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -206,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725026019964</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add new hw">
+      <option name="closed" value="true" />
+      <created>1725185362356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725185362356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add second hw">
+      <option name="closed" value="true" />
+      <created>1725228301031</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725228301031</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,8 +270,9 @@
     <MESSAGE value="add ws" />
     <MESSAGE value="add hw" />
     <MESSAGE value="add hw mod" />
-    <MESSAGE value="add new hw" />
     <MESSAGE value="add  hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  hw" />
+    <MESSAGE value="add new hw" />
+    <MESSAGE value="add second hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second hw" />
   </component>
 </project>
